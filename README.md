@@ -23,8 +23,7 @@ yarn start
 ## Developpement
 
 
-For the feature on the Admin_LTE template, see the readme of this repo:
-[https://github.com/TwanoO67/ngx-admin-lte](https://github.com/TwanoO67/ngx-admin-lte)
+
 
 Adding a component
 
